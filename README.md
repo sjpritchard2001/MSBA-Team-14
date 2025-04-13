@@ -8,11 +8,11 @@ The U.S. generates about 119 billion pounds of food waste each year, which is ro
 
 **Project Details:**
 
-We created a code demonstration to show how reinforcement learning can practically work. For a more hands-on example, we also created an interactive website where the user can input certain fields, like shelf life and starting price, and it can calculate the appropriate price discounts to meet the demand level and sell all stock before it goes to waste.
+We created a code demonstration to show how reinforcement learning can practically work at a very simple and easy-to-understand level. For a more hands-on example, we also created an interactive website where the user can input certain fields, like shelf life and starting price, and it can calculate the appropriate price discounts to meet the demand level and sell all stock before it goes to waste. This Reinforcement Learning (RL) model simulates dynamic pricing for perishable goods, specifically beef with limited shelf life. The goal is to maximize profit while minimizing waste by adjusting prices intelligently over time. RL allows adaptive learning with changing demand and stock levels. Dynamic pricing reduces food waste and improves profitability for grocery stores. A tool like this provides real-world value for grocery retailers and customers alike. Then there is the environmental impact that reducing food waste has, with less methane and greenhouse gases released into the Earth's atmosphere.
 
 **What's Next?:**
 
-With a tool like this, it is possible for us to improve economically and environmentally.
+With a tool like this, we can improve economically and environmentally. Scaling an RL model like this to incorporate and simulate multiple products (e.g., dairy, bakery, produce) with diverse shelf lives and margins. Real-time integration by embedding the pricing model into point-of-sale or inventory management systems for live decision-making is another way to streamline this process. It would also be beneficial to be open to customer behavior feedback by integrating customer purchase history and loyalty data to fine-tune demand predictions. An extension of this would be, if eliminating food waste using this method is not possible, we could have better communication with local food banks and other organizations that can make use of food that is close to perishing.
 
 **Resposonsible AI considerations:**
 
