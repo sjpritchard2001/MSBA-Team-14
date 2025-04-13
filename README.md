@@ -1,4 +1,4 @@
-# MSBA-Team-14
+# MSBA-Team-14: RL On The Rack
 ## [Sean McElroy](https://github.com/stmcelroy703/MSBA), [Abraham Amoako-Atta](https://github.com/atamoakoatta/ab), [Sam Pritchard](https://github.com/sjpritchard2001/About-Me)
 **Team 14's MSBA AI Final Project: Reinforcement Learning**
 
