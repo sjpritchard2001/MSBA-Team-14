@@ -16,7 +16,7 @@ With a tool like this, we can improve economically and environmentally. Scaling 
 
 **Resposonsible AI considerations:**
 
-AI makes a process 
+Ensure pricing algorithms do not discriminate based on location, store demographics, or time of purchase. Maintain transparency in how prices are generated — customers should understand why prices fluctuate. Any customer data used for demand prediction must comply with data protection regulations. Apply anonymization techniques to protect consumer identity when analyzing sales patterns. Continuously audit the model to detect and correct algorithmic bias.
 
 **References (MLA style):**
 
