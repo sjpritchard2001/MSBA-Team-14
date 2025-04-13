@@ -14,5 +14,9 @@ What's Next?:
 
 With a tool like this, it is possible for us to improve economically and environmentally.
 
+Resposonsible AI considerations:
+
+AI makes a process 
+
 References (MLA style): 
 
