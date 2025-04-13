@@ -8,9 +8,11 @@ The U.S. generates about 119 billion pounds of food waste each year, which is ro
 
 Project Details:
 
-We created a code demonstration to show how reinforcement learning can practically work. For a more hands-on example, we also created an interactive website where the user can input certain fields, like shelf like and starting price, and it can calculate the appropriate price discounts to meet the demand level and sell all stock before it goes to waste.
+We created a code demonstration to show how reinforcement learning can practically work. For a more hands-on example, we also created an interactive website where the user can input certain fields, like shelf life and starting price, and it can calculate the appropriate price discounts to meet the demand level and sell all stock before it goes to waste.
 
 What's Next?:
 
-With a tool like this, it is 
-References: 
+With a tool like this, it is possible for us to improve economically and environmentally.
+
+References (MLA style): 
+
